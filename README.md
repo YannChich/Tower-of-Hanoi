@@ -12,7 +12,9 @@ No additional installations are required. The program uses only Python's standar
 To run the program, follow these steps:
 
 1-Open a terminal or command prompt.
+
 2-Navigate to the directory where the program file is located.
+
 3-Run the following command to launch the program: python3 hanoi.py
 
 ### How to Use
