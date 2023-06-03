@@ -1,6 +1,6 @@
 # Tower-of-Hanoi
 
-This Python program is a graphical implementation of the Towers of Hanoi, a famous recursive problem. It uses the Tkinter library to create a simple graphical interface for visualizing the disk movements between the towers.
+This Python program is a  implementation of the Towers of Hanoi, a famous recursive problem. It uses the Tkinter library to create a simple graphical interface for visualizing the disk movements.
 
 ### Prerequisites
 Before running the program, make sure you have Python installed on your machine. The program has been tested with Python 3. If you don't have Python yet, you can download it from the official Python website: https://www.python.org/
@@ -25,4 +25,3 @@ If the number of disks is greater than 10, only the total number of moves will b
 If the number of disks is 10 or less, each individual move will be displayed.
 A message box will show the total number of moves once the solution is complete.
 You can repeat the process by entering a different number of disks and clicking "Solve" again.
-Note: The graphical interface represents the towers as three vertical stacks. The disks are depicted as rectangles, with larger disks at the bottom and smaller disks at the top. The goal is to move all the disks from the leftmost tower (A) to the rightmost tower (C), following the rules of the Towers of Hanoi puzzle.
